@@ -22,7 +22,7 @@ class ViewController: UIViewController {
     
    
     
-     var items = ["Appetizers","Dim Sum","Salads & Soups","Sushi","5","6","7","8"]
+     var items = ["Appetizes","Dim Sum","Salads & Soups","Sushi","5","6","7","8"]
     var foodItems : [String] = ["food1","food2","food3","food4","food5","food6","food7","food7","food8",]
     
      var model = Model()
